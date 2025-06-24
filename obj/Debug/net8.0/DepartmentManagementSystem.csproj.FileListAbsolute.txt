@@ -257,3 +257,5 @@ C:\Users\thray\DepartmentManagementSystem\obj\Debug\net8.0\refint\DepartmentMana
 C:\Users\thray\DepartmentManagementSystem\obj\Debug\net8.0\DepartmentManagementSystem.pdb
 C:\Users\thray\DepartmentManagementSystem\obj\Debug\net8.0\DepartmentManagementSystem.genruntimeconfig.cache
 C:\Users\thray\DepartmentManagementSystem\obj\Debug\net8.0\ref\DepartmentManagementSystem.dll
+C:\Users\thray\DepartmentManagementSystem\bin\Debug\net8.0\global.json
+C:\Users\thray\DepartmentManagementSystem\obj\Debug\net8.0\DepartmentManagementSystem.sourcelink.json

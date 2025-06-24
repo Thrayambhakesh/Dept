@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: department-management-system
+    runtime: dotnet
+    repo: https://github.com/Thrayambhakesh/Dept
+    branch: main
+    buildCommand: dotnet publish -c Release -o out
+    startCommand: dotnet ./out/DepartmentManagementSystem.dll
+    env: 
+      - key: ASPNETCORE_ENVIRONMENT
+        value: Production
